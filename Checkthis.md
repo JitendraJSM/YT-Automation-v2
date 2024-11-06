@@ -1,0 +1,1 @@
+https://github.com/transitive-bullshit/awesome-puppeteer?tab=readme-ov-file
